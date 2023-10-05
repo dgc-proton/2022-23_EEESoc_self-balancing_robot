@@ -1,6 +1,6 @@
 # Self Balancing Robot
 
-This repository contains files relating to the final version of a self-balancing robot built by Dave & Anoop to enter the 2022-23 Aberdeen University Electrical & Electronic Engineering Society self balancing robot competition.
+This repository contains files relating to the final version of a self-balancing robot built by Dave & Anoop to enter the 2022-23 Aberdeen University Electrical & Electronic Engineering Society Robotics League; a self balancing robot competition.
 
 The competition had 7 events which all competitors had to compete in:
 
